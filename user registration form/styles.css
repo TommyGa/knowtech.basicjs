@@ -1,0 +1,26 @@
+#registrationForm label{
+    width:200px;
+    display: block;
+    float: left;
+}
+
+#registrationForm input{
+   padding: 3px;
+   border-radius: 3px;
+}
+
+#registrationForm .field{
+    padding:10px;
+    border-bottom:1px solid green;
+}
+
+#registrationForm .action{
+    padding:10px;
+    border-bottom:1px solid green;
+}
+
+#registrationForm button{
+    color: Blue;
+    background-color: green;
+    box-shadow: 0 0 14px #FFF inset;
+}
